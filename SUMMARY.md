@@ -1,3 +1,17 @@
 # Table of contents
 
-* [Dream\_records](README.md)
+* [C76GN\`s Dream](README.md)
+
+## Records
+
+* [《钉子》](records/ding-zi.md)
+* [《城堡后的公主》](records/cheng-bao-hou-de-gong-zhu.md)
+* [《种子》](records/zhong-zi.md)
+* [《地下超市》](records/di-xia-chao-shi.md)
+* [《她的存在》](records/ta-de-cun-zai.md)
+* [《屎》](records/shi.md)
+* [《一个短暂美好的瞬间》](records/yi-ge-duan-zan-mei-hao-de-shun-jian.md)
+* [《漂浮在海上的学校》](records/piao-fu-zai-hai-shang-de-xue-xiao.md)
+* [《你的期待赋予了我》](records/ni-de-qi-dai-fu-yu-le-wo.md)
+* [《长老》](records/chang-lao.md)
+* [《真实的世界》](records/zhen-shi-de-shi-jie.md)
