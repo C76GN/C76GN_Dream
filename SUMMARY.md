@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《恶魔的交易》](records/e-mo-de-jiao-yi.md)
 * [《再见亲爱的》](records/zai-jian-qin-ai-de.md)
 * [《钉子》](records/ding-zi.md)
 * [《城堡后的公主》](records/cheng-bao-hou-de-gong-zhu.md)
