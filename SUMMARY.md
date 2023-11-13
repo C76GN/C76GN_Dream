@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《大蛇》](records/da-she.md)
 * [《蘑菇和假人》](records/mo-gu-he-jia-ren.md)
 * [《笑的合唱》](records/xiao-de-he-chang.md)
 * [《恶魔的交易》](records/e-mo-de-jiao-yi.md)
