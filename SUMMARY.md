@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《盆地》](records/pen-di.md)
 * [《大蛇》](records/da-she.md)
 * [《蘑菇和假人》](records/mo-gu-he-jia-ren.md)
 * [《笑的合唱》](records/xiao-de-he-chang.md)
