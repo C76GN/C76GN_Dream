@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《商场》](records/shang-chang.md)
 * [《盆地》](records/pen-di.md)
 * [《大蛇》](records/da-she.md)
 * [《蘑菇和假人》](records/mo-gu-he-jia-ren.md)
