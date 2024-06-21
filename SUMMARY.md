@@ -4,7 +4,7 @@
 
 ## Records
 
-* [《学校》](records/xue-xiao.md)
+* [《考试》](records/kao-shi.md)
 * [《商场》](records/shang-chang.md)
 * [《盆地》](records/pen-di.md)
 * [《大蛇》](records/da-she.md)
