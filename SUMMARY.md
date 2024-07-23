@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《冲击波》](records/chong-ji-bo.md)
 * [《腐烂》](records/fu-lan.md)
 * [《考试》](records/kao-shi.md)
 * [《商场》](records/shang-chang.md)
