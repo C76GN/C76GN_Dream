@@ -4,6 +4,7 @@
 
 ## Records
 
+* [《雕像》](records/diao-xiang.md)
 * [《卵》](records/luan.md)
 * [《冲击波》](records/chong-ji-bo.md)
 * [《腐烂》](records/fu-lan.md)
